@@ -1,0 +1,41 @@
+
+#ico{
+    size: 7px;
+}
+#next{
+    position: absolute;
+    left: 605px;
+    top: 440px;
+}
+
+#gender-s{
+    position: absolute;
+    left: 532px;
+    width: 72px;
+    top: 340px;
+}
+#p0{
+    position: absolute;
+    left: 533px;
+    top: 300px;
+}
+#num1{
+    position: absolute;
+    left: 532px;
+    top: 400px;
+}
+#num2{
+    position: absolute;
+    left: 607px;
+    top: 400px;
+}
+#p1{
+    position: absolute;
+    left: 607px;
+    top: 364px; 
+}
+#p2{
+    position: absolute;
+    left: 532px;
+    top: 364px; 
+}
